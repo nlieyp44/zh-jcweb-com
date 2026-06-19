@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nlieyp44.github.io/zh-jcweb-com/sitemap.xml
